@@ -20,7 +20,6 @@ $mensagem = "É o vibe e o codas não tem jeito";
 
     <p><?php echo $mensagem; ?></p>
 
-    <img src=" " alt="">
-    
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cubkzP9dy8xVFfw2-gHMKY3NWEd9AEuJxIm5oH6Bgw&s=10 " alt="">
 </body>
 </html>

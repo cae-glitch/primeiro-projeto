@@ -8,6 +8,12 @@ $mensagem = "É o vibe e o codas não tem jeito";
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+    <style>
+        body{
+            background-image: linear-gradient(to top,red, white)
+        }
+    </style>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projeto PHP - Carol Souza</title>
